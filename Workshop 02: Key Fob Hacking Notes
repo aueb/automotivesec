@@ -1,0 +1,72 @@
+# Meetup
+
+* https://www.meetup.com/de-DE/Automotive-Security-Research-Group-ASRG/events/255253159/
+
+
+## Cars
+
+
+Car / Modell
+	FCC
+	Freq
+	Chip Label
+VW Golf BJ. 02/2018
+	
+
+NBGFS12P
+
+
+	432.42 MHz
+	
+VW Golf IV Bj. 2002
+	
+	
+	
+Hyundai Ioniq Electric	
+	433.92MHz	
+
+NXP F295 1X0700
+
+SHY069.1 06
+
+ZnD18070
+
+* FCC
+
+   * http://fcc.io
+
+## Universal Radio Hacker: investigate wireless protocols like a boss
+
+https://github.com/jopohl/urh
+
+Hi for the Mac users, if you get trouble selecting the RTL device in the URH tool, then try this:
+
+rm ~/.config/urh/urh.ini
+
+afterwards the RTL-SDR device is selectable. Hint derived from https://github.com/jopohl/urh/issues/224
+
+## Links
+
+### RDS
+
+* My journey into RDS https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen
+
+    * Sldies https://events.ccc.de/congress/2013/Fahrplan/events/5588.html
+
+* DARC Munich https://media.ccc.de/v/eh15_-_2_-_de_-_saal_-_201504051300_-_the_darc_side_of_munich_-_chris007_-_andz
+
+### RFID
+
+* https://www.golem.de/news/elektromobilitaet-so-leicht-lassen-sich-ladestationen-und-karten-hacken-1712-131869.html
+
+* Ladekarten auslesen https://gonium.net/blog/2017/10/26/schwarzladen/
+
+   * RFID 13,56 MHz
+
+* RFID Reader Übersicht https://www.watterott.com/de/Sensoren/RFID
+
+* Samy Kamkar - Radio Hacking: Cars, Hardware, and more! - Samy Kamkar - AppSec California 2016
+
+https://www.youtube.com/watch?v=1RipwqJG50c&t=2712s
+
+
