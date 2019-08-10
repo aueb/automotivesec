@@ -14,17 +14,16 @@ Welcome to the automotivesec wiki!
 
 ### Organisations
 
-* [Car Hacking Village](Car-Hacking-Village)
-* [ASRG Meetup Stuttgart](ASRG-Meetup-Stuttgart)
-* [ASRG Meetup Detroit](ASRG-Meetup-Detroit)
-* [OpenGarages](OpenGarages)
-* [OpenGarages.de](OpenGarages.de)
+* [Car-Hacking-Village](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/car-hacking-village)
+* [ASRG-Meetup-Stuttgart](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/asrg-meetup-stuttgart)
+* [ASRG-Meetup-Detroit](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/asrg-meetup-detroit)
+* [OpenGarages](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/opengarages)
 
 ### Events
 
-* [GNU Radio Conference](GNU-Radio-Conference)
-* [Defcon](Defcon)
-* [Usenix and related](Usenix)
+* [GNU-Radio-Conference](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/gnu-radio-conference)
+* [Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/defcon)
+* * [Usenix and related](Usenix)
 * [CCC and related](C3x)
 * [bsidesSTR](bsidesSTR)
 
@@ -55,7 +54,7 @@ Welcome to the automotivesec wiki!
 ### Standards
 
 * [SAE J2534](SAE-J2534)
-* [CAN](CAN)
+* [CAN](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/can)
 * [LIN](LIN)
 
 ### Capture the flag
