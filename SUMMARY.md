@@ -66,7 +66,7 @@
 
 ## Events <a id="events-1"></a>
 
-* [Untitled](events-1/untitled.md)
+* [Events](events-1/untitled.md)
 
 ## Organisations
 
