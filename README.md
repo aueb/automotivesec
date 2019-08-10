@@ -24,7 +24,7 @@ Welcome to the automotivesec wiki!
 * [GNU-Radio-Conference](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/gnu-radio-conference)
 * [Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/defcon)
 * * [Usenix and related](Usenix)
-* [CCC and related](C3x)
+* [CCC and related](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-Llu0dyXyfpq--Pi2jDq/c3x)
 * [bsidesSTR](bsidesSTR)
 
 ### Repos TBD
