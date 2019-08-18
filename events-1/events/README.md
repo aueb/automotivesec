@@ -5,7 +5,7 @@
 * [ASRG Meetup Stuttgart](ASRG-Meetup-Stuttgart)
 * [ASRG Meetup Detroit](ASRG-Meetup-Detroit)
 
-## Defcon
+## Defcon \([Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-Lm_8SwzbSMGVVs4M7dm/events-1/defcon)\)
 
 * [Defcon 19](Defcon19)
 * [Defcon 22](Defcon22)
