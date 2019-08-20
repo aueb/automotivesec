@@ -12,6 +12,17 @@
 
 ### Hak5 on Key Fobs
 
+* **Hacking Ford Key Fobs Pt. 2 - SDR Attacks with @TB69RR - Hak5 2524 \(06/2019\)**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=k8rNQ3mBZQ4&**](https://www.youtube.com/watch?v=k8rNQ3mBZQ4&)\*\*\*\*
+  * \*\*\*\*[**https://the-parallax.com/2019/05/03/hacker-ford-key-fob-vulnerability/**](https://the-parallax.com/2019/05/03/hacker-ford-key-fob-vulnerability/)\*\*\*\*
+  * \*\*\*\*[**http://fordauthority.com/2019/05/security-researcher-discovers-new-ford-key-fob-hack/**](http://fordauthority.com/2019/05/security-researcher-discovers-new-ford-key-fob-hack/)\*\*\*\*
+  * \*\*\*\*[**https://www.rtl-sdr.com/tag/ford/**](https://www.rtl-sdr.com/tag/ford/)\*\*\*\*
+* **Hacking Ford Key Fobs Pt. 1 - SDR Attacks with @TB69RR - Hak5 2523 \(06/2019\)**
+
+  * \*\*\*\*[**https://www.youtube.com/watch?v=k8rNQ3mBZQ4&**](https://www.youtube.com/watch?v=k8rNQ3mBZQ4&)\*\*\*\*
+
+  \*\*\*\*
+
 * Hacking Keyless Entry Remotes - Hak5 1911 \(11/2015\)
   * [https://www.youtube.com/watch?v=LqmVaf2KHYA](https://www.youtube.com/watch?v=LqmVaf2KHYA&t=619s)
   * [https://en.wikipedia.org/wiki/Remote\_keyless\_system](https://en.wikipedia.org/wiki/Remote_keyless_system)
