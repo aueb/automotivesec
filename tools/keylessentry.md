@@ -10,3 +10,19 @@
 * **HITB2017AMS D2T2 - Chasing Cars: Keyless Entry System Attacks - Yingtao Zeng, Qing Yang and Jun Li**
   * [https://www.youtube.com/watch?v=rhm1TiFJc7s](https://www.youtube.com/watch?v=rhm1TiFJc7s)
 
+### Hak5 on Key Fobs
+
+* Hacking Keyless Entry Remotes - Hak5 1911 \(11/2015\)
+  * [https://www.youtube.com/watch?v=LqmVaf2KHYA](https://www.youtube.com/watch?v=LqmVaf2KHYA&t=619s)
+  * [https://en.wikipedia.org/wiki/Remote\_keyless\_system](https://en.wikipedia.org/wiki/Remote_keyless_system)
+  * [https://en.wikipedia.org/wiki/Rolling\_code](https://en.wikipedia.org/wiki/Rolling_code)
+  * [https://en.wikipedia.org/wiki/Replay\_attack](https://en.wikipedia.org/wiki/Replay_attack)
+  * [https://www.businessinsider.com/samy-kamkar-keyless-entry-car-hack-2015-8?IR=T](https://www.businessinsider.com/samy-kamkar-keyless-entry-car-hack-2015-8?IR=T)
+  * [https://hackaday.com/2015/10/30/eff-granted-dmca-exemption-hacking-your-own-car-is-legal-for-now/](https://hackaday.com/2015/10/30/eff-granted-dmca-exemption-hacking-your-own-car-is-legal-for-now/)
+  * [https://arstechnica.com/tech-policy/2015/10/us-regulators-grant-dmca-exemption-legalizing-vehicle-software-tinkering/](https://arstechnica.com/tech-policy/2015/10/us-regulators-grant-dmca-exemption-legalizing-vehicle-software-tinkering/)
+
+
+
+
+
+* 
