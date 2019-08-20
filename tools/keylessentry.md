@@ -12,6 +12,8 @@
 
 ### Hak5 on Key Fobs
 
+* **Hacking Ford Key Fobs Pt. 3 - SDR Attacks with @TB69RR - Hak5 2525**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=6Wz1eZmTqQI**](https://www.youtube.com/watch?v=6Wz1eZmTqQI)\*\*\*\*
 * **Hacking Ford Key Fobs Pt. 2 - SDR Attacks with @TB69RR - Hak5 2524 \(06/2019\)**
   * \*\*\*\*[**https://www.youtube.com/watch?v=k8rNQ3mBZQ4&**](https://www.youtube.com/watch?v=k8rNQ3mBZQ4&)\*\*\*\*
   * \*\*\*\*[**https://the-parallax.com/2019/05/03/hacker-ford-key-fob-vulnerability/**](https://the-parallax.com/2019/05/03/hacker-ford-key-fob-vulnerability/)\*\*\*\*
