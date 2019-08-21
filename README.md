@@ -7,6 +7,9 @@ Welcome to the automotivesec wiki!
 ### News
 
 * AutoISAC
+* [https://the-parallax.com/category/features/](https://the-parallax.com/category/features/)
+* [https://hackaday.com/tag/car-hacking/](https://hackaday.com/tag/car-hacking/)
+* [https://arstechnica.com/cars/](https://arstechnica.com/cars/)
 
 #### News on Twitter
 
