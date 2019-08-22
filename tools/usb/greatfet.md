@@ -33,6 +33,30 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 ### Gladiolus
 
+Gladiolus is the code name for an infrared neighbor under development. The concept is to execute IR RX and TX in the style of Software Defined Radio \(SDR\), enabling implementation of arbitrary IR protocols. In every known over-the-air IR implementation, only the amplitude of the optical signal is modulated, so we need to detect/modulate the amplitude with a single ADC/DAC. 
+
+#### Potential Targets
+
+* 20 to 60 kHz IR remote control systems
+* IrDA up to 4 Mbps
+* Bosch Integrus audio broadcast over IR \(DQPSK over AM\)
+* proximity sensors
+
+#### Wavelength
+
+Though many IR-over-fiber implementations use longer wavelengths, all over-the-air targets we've identified use wavelengths between 850 and 950 nm. Gladiolus should be able to detect and produce IR over that range.
+
+#### Ideas with IR
+
+* IRIS
+  * **Tracking Phones with Infrared and IRis - Hak5 2121**
+    * \*\*\*\*[**https://www.youtube.com/watch?v=Hh5Snb-AXxY**](https://www.youtube.com/watch?v=Hh5Snb-AXxY)\*\*\*\*
+    * \*\*\*\*[**http://www.analogzoo.com/2016/08/photodiode-amplifier-design/**](http://www.analogzoo.com/2016/08/photodiode-amplifier-design/)\*\*\*\*
+    * \*\*\*\*[**https://github.com/tb69rr/Iris**](https://github.com/tb69rr/Iris)\*\*\*\*
+    * \*\*\*\*[**https://github.com/devttys0/IRis**](https://github.com/devttys0/IRis)\*\*\*\*
+
+#### Link
+
 * [https://github.com/greatscottgadgets/greatfet/wiki/Gladiolus](https://github.com/greatscottgadgets/greatfet/wiki/Gladiolus)
 
 ### Peony
