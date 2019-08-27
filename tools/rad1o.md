@@ -16,3 +16,10 @@ There are two micro USB ports, both can charge the battery. USB A can be used fo
 * [https://greatscottgadgets.com/2015/08-11-rad1obadge/](https://greatscottgadgets.com/2015/08-11-rad1obadge/)
 * [https://twitter.com/rad1obadge](https://twitter.com/rad1obadge)
 
+### Resources
+
+* **BitBastelei** [**\#180a**](https://www.youtube.com/results?search_query=%23180a) **- Rad1o SDR - Fehlersuche & Reparatur \(CMC\)**
+  * [https://www.youtube.com/watch?v=ZpDAI\_hz6KY](https://www.youtube.com/watch?v=ZpDAI_hz6KY)
+
+
+
