@@ -33,6 +33,7 @@
   * [USB](tools/usb/README.md)
     * [Facedancer](tools/usb/facedancer.md)
     * [GreatFet](tools/usb/greatfet.md)
+  * [RFID](tools/rfid.md)
 
 ## Events <a id="events-1"></a>
 
