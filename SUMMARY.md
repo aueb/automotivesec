@@ -34,6 +34,7 @@
     * [Facedancer](tools/usb/facedancer.md)
     * [GreatFet](tools/usb/greatfet.md)
   * [RFID](tools/rfid.md)
+* [IOT / Scada](iot-scada.md)
 
 ## Events <a id="events-1"></a>
 
