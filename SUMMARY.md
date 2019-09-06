@@ -32,7 +32,7 @@
   * [BeagleUSB12](tools/beagleusb12.md)
   * [USB](tools/usb/README.md)
     * [Facedancer](tools/usb/facedancer.md)
-    * [GreatFet](tools/usb/greatfet.md)
+  * [GreatFet](tools/greatfet.md)
   * [RFID](tools/rfid.md)
 * [IOT / Scada](iot-scada.md)
 
