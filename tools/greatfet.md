@@ -16,9 +16,26 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 #### GoodFet
 
+* [http://goodfet.sourceforge.net/](http://goodfet.sourceforge.net/)
+*  Travis Goodspeed – A Keynote in Praise of Junk Hacking \(HACKTIVITY 2016\)
+  * [https://www.youtube.com/watch?v=ZmZ\_tvbhJ0I](https://www.youtube.com/watch?v=ZmZ_tvbhJ0I)
+
+#### Facedancer
+
+* [https://github.com/usb-tools/Facedancer](https://github.com/usb-tools/Facedancer)
+
 ## Wiki
 
 * [https://github.com/greatscottgadgets/greatfet/wiki](https://github.com/greatscottgadgets/greatfet/wiki)
+* [https://greatscottgadgets.github.io/greatfet-tutorials/](https://greatscottgadgets.github.io/greatfet-tutorials/)
+  * Logic Analysis [https://greatscottgadgets.github.io/greatfet-tutorials/logic-analysis.html](https://greatscottgadgets.github.io/greatfet-tutorials/logic-analysis.html)
+  * **Serial Peripheral Interface \(SPI\)** [**https://greatscottgadgets.github.io/greatfet-tutorials/spi.html**](https://greatscottgadgets.github.io/greatfet-tutorials/spi.html)\*\*\*\*
+
+## \#\# Hardware
+
+* Main Board \(azalea\)
+  * [https://github.com/greatfet-hardware/azalea](https://github.com/greatfet-hardware/azalea)
+  * 
 
 ## Neighbors / Heads
 
@@ -76,4 +93,15 @@ Quince is a GreatFET neighbor that serves as a Software Defined Radio \(SDR\) re
 ### Facedancer
 
 * [https://github.com/usb-tools/Facedancer](https://github.com/usb-tools/Facedancer)
+
+### Resources
+
+* **GreatFET: Making GoodFET Great Again \(Black Hat 2016\)**
+  * [https://www.youtube.com/watch?v=4NIoAnsuFOQ](https://www.youtube.com/watch?v=4NIoAnsuFOQ)
+* **Introducing the GreatFET One - Hak5 2521**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=gOPF0Abm7T0**](https://www.youtube.com/watch?v=gOPF0Abm7T0)\*\*\*\*
+* **Hacking Infrared with Mike Ossmann and the GreatFET One - Hak5 2522**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=S3fHahvQCgM**](https://www.youtube.com/watch?v=S3fHahvQCgM)\*\*\*\*
+* **Great Scott Gadgets - Michael Ossmann @michaelossmann @GSGlabs**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=t0uIoJ9gK4Y**](https://www.youtube.com/watch?v=t0uIoJ9gK4Y)\*\*\*\*
 
