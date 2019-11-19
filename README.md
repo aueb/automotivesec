@@ -1,6 +1,8 @@
 # Home
 
 Welcome to the automotivesec wiki!
+* https://github.com/aueb/automotivesec/wiki
+
 
 ## Ressources
 
