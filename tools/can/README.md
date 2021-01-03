@@ -19,6 +19,25 @@
 * [https://makezine.com/2016/04/08/car-hacking-tools-trade/](https://makezine.com/2016/04/08/car-hacking-tools-trade/)
 * [https://canb.us/tutorials/Tapping into a bus](https://canb.us/tutorials/Tapping%20into%20a%20bus)
 * When CAN CANT - Tim Brom and Mitchell Johnson \(GRIMM\) [https://archive.org/details/youtube-oS-6xDc\_pP4](https://archive.org/details/youtube-oS-6xDc_pP4)
+* BlackHat Asia 2016 Hopping on the CAN Bus
+  * [https://www.youtube.com/watch?v=U1yecKUmnFo](https://www.youtube.com/watch?v=U1yecKUmnFo)
+
+![](../../.gitbook/assets/grafik.png)
+
+by Eric Evenchick
+
+Controller Area Network \(CAN\) is found in a number of systems, and is the main form of networking used in the automotive industry. Every new car has multiple CAN buses that let controllers communicate. This bus controls everything from the camshaft on your engine to your power seats.
+
+In this talk, we will present and release CANard, an open-source toolkit which allows easy scripting of CAN bus tasks. This toolkit allows us to easily work with CAN, to talk to automotive controllers, perform diagnostic actions, and fuzz the protocols.
+
+We will start with a brief introduction to CAN, look at the required hardware, and then start sending and receiving messages. We will explore CANard's features, and see several demos of real world vulnerabilities using our tool. We'll demonstrate how to read and clear fault codes, crack diagnostics security, and fuzz controllers to take over vehicle operation.
+
+The talk will focus on practical applications. By the end of the talk, attendees will not only gain an understanding of automotive systems, but will also have the tools to attack them.
+
+* [https://copperhilltech.com/raspberry-pi-3-system-with-can-bus-interface/](https://copperhilltech.com/raspberry-pi-3-system-with-can-bus-interface/)
+* [https://www.cowfishstudios.com/blog/canned-pi-part1](https://www.cowfishstudios.com/blog/canned-pi-part1)
+
+[https://www.cowfishstudios.com/uploads/2/8/6/1/28619761/326569.png?572](https://www.cowfishstudios.com/uploads/2/8/6/1/28619761/326569.png?572)
 
 ## Standards
 
@@ -84,22 +103,30 @@
 * [https://area515.org/elm327-hacking/](https://area515.org/elm327-hacking/)
 * alternative Firmware [https://bitbucket.org/drbobbob/elm-lawicel/src/default/](https://bitbucket.org/drbobbob/elm-lawicel/src/default/)
 
+## \# Cars
+
+### Tesla
+
+* **Tesla CAN bus data logging**
+  * \*\*\*\*[**https://www.youtube.com/watch?v=54jQ7ut3FBA**](https://www.youtube.com/watch?v=54jQ7ut3FBA)\*\*\*\*
+  * \*\*\*\*[**http://store.evtv.me/proddetail.php?prod=TeslaCANKit**](http://store.evtv.me/proddetail.php?prod=TeslaCANKit)\*\*\*\*
+
 ## Tools
 
-* [CANalyze](CANalyze)
-* [CANalyzat0r](CANalyzat0r)
-* [CANUSB](CANUSB)
-* [Flashlogic FLXCAN](Flashlogic_FLXCAN)
-* [USB2CAN](USB2CAN)
-* [ValueCan4-1](ValueCan4-1)
-* [VehicleSpy](VehicleSpy) by Intrepid
-* [Easysync](Easysync)
-* [Ikalogic SP209 Logic Analyzer](Ikalogic_SP209_Logic_Analyzer)
-* [CANtact](CANtact)
-* canb.us and [Wireshark](Wireshark) [https://canb.us/tutorials/Wireshark](https://canb.us/tutorials/Wireshark)
+* [CANalyze](canalyze.md)
+* [CANalyzat0r](canalyzat0r.md)
+* [CANUSB](canusb.md)
+* [Flashlogic FLXCAN](flashlogic_flxcan.md)
+* [USB2CAN](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/USB2CAN/README.md)
+* [ValueCan4-1](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/ValueCan4-1/README.md)
+* [VehicleSpy](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/VehicleSpy/README.md) by Intrepid
+* [Easysync](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/Easysync/README.md)
+* [Ikalogic SP209 Logic Analyzer](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/Ikalogic_SP209_Logic_Analyzer/README.md)
+* [CANtact](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/CANtact/README.md)
+* canb.us and [Wireshark](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/Wireshark/README.md) [https://canb.us/tutorials/Wireshark](https://canb.us/tutorials/Wireshark)
 * CANiBUS [https://github.com/Hive13/CANiBUS/](https://github.com/Hive13/CANiBUS/)
-* [Scapy](Scapy)
-* [GreatFET](GreatFET)
+* [Scapy](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/Scapy/README.md)
+* [GreatFET](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/tools/can/GreatFET/README.md)
 
 ## Links
 

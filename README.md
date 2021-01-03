@@ -1,8 +1,8 @@
 # Home
 
 Welcome to the automotivesec wiki!
-* https://github.com/aueb/automotivesec/wiki
 
+* [https://github.com/aueb/automotivesec/wiki](https://github.com/aueb/automotivesec/wiki)
 
 ## Ressources
 
@@ -28,9 +28,9 @@ Welcome to the automotivesec wiki!
 
 * [GNU-Radio-Conference](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/gnu-radio-conference)
 * [Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/defcon)
-* * [Usenix and related](Usenix)
+* * [Usenix and related](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Usenix/README.md)
 * [CCC and related](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-Llu0dyXyfpq--Pi2jDq/c3x)
-* [bsidesSTR](bsidesSTR)
+* [bsidesSTR](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/bsidesSTR/README.md)
 
 ### Repos TBD
 
@@ -58,38 +58,38 @@ Welcome to the automotivesec wiki!
 
 ### Standards
 
-* [SAE J2534](SAE-J2534)
-* [CAN](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/can)
-* [LIN](LIN)
+* [SAE J2534](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/SAE-J2534/README.md)
+* [CAN](tools/can/)
+* [LIN](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/LIN/README.md)
 
 ### Capture the flag
 
-* [RHme](RHme)
-* [The Hague](The%20Hague)
+* [RHme](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/RHme/README.md)
+* [The Hague](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/The%20Hague/README.md)
 * [https://nullcon.net/website/goa-2019/ctf.php](https://nullcon.net/website/goa-2019/ctf.php)
 
 ### Companies
 
-* [Hak5](Hak5)
-* [Greatscottgadgets](Greatscottgadgets) \(Maker of [HackRF](HackRF)\)
-* [Intrepedic](Intrepedic) \([https://www.inrepedics.com](https://www.inrepedics.com)\)
+* [Hak5](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Hak5/README.md)
+* [Greatscottgadgets](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Greatscottgadgets/README.md) \(Maker of [HackRF](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/HackRF/README.md)\)
+* [Intrepedic](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Intrepedic/README.md) \([https://www.inrepedics.com](https://www.inrepedics.com)\)
 * Vector
-* [Riscure](Riscure) \([https://www.riscure.com/publications/](https://www.riscure.com/publications/)\)
+* [Riscure](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Riscure/README.md) \([https://www.riscure.com/publications/](https://www.riscure.com/publications/)\)
 
 ## Hacks
 
 ### Automotive
 
-* [Valasek Miller Adventures in Automotive Networks and Control Units 2014](Adventures-in%20Automotive-Networks-and-Control-Units-2014)
+* [Valasek Miller Adventures in Automotive Networks and Control Units 2014](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Adventures-in%20Automotive-Networks-and-Control-Units-2014/README.md)
 
 #### CAN
 
 * Adventures in Automotive Networks and Control Units 2014,  [https://ioactive.com/pdfs/IOActive\_Adventures\_in\_Automotive\_Networks\_and\_Control\_Units.pdf](https://ioactive.com/pdfs/IOActive_Adventures_in_Automotive_Networks_and_Control_Units.pdf)
   * [http://illmatics.com/carhacking.html](http://illmatics.com/carhacking.html)
 
-#### [Keyless Entry](KeylessEntry)
+#### [Keyless Entry](tools/keylessentry.md)
 
-#### [TPMS](TPMS)
+#### [TPMS](tools/tpms.md)
 
 ### Standard Networks
 
@@ -99,13 +99,13 @@ Welcome to the automotivesec wiki!
   * [https://www.krackattacks.com/](https://www.krackattacks.com/)
 * WifiPhisher – Used for Hacking WPA/WPA2 Security 
   * [https://latesthackingnews.com/2015/01/05/wifiphisher-new-method-hacking-wpawpa2-security/](https://latesthackingnews.com/2015/01/05/wifiphisher-new-method-hacking-wpawpa2-security/)
-* New attack on WPA/WPA2 using PMKID 
+* New attack on WPA/WPA2 using PMKID
   * [https://hashcat.net/forum/thread-7717.html](https://hashcat.net/forum/thread-7717.html)
 
-    \*\*\*\*[**Bluetooth**](Bluetooth)\*\*\*\*
+    \*\*\*\*[**Bluetooth**](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Bluetooth/README.md)\*\*\*\*
 
-  * [Ubertooth](Ubertooth)
-  * [Bluefruit LE Sniffer](BluefruitLESniffer)
+  * [Ubertooth](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Ubertooth/README.md)
+  * [Bluefruit LE Sniffer](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/BluefruitLESniffer/README.md)
 
     **GSM**
 
@@ -126,5 +126,5 @@ Welcome to the automotivesec wiki!
   * [http://blog.kismetwireless.net/2017/](http://blog.kismetwireless.net/2017/)
   * Insights Into Drone Protocol Manipulation [https://department13.com/insights-drone-protocol-manipulation/1025/](https://department13.com/insights-drone-protocol-manipulation/1025/)
 
-## [Tools](Tools)
+## [Tools](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Tools/README.md)
 

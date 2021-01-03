@@ -61,3 +61,18 @@
   * TR19: Vehicle alarms' insecurity and something else
     * [https://www.youtube.com/watch?v=77WxbqPPFlA](https://www.youtube.com/watch?v=77WxbqPPFlA)
 
+### 2020
+
+* [http://mirider.com/weblog/2020/12/04/\#20201204\_Modern\_TPMS\_Sensors\_Lets\_try\_a\_DoS\_attack](http://mirider.com/weblog/2020/12/04/#20201204_Modern_TPMS_Sensors_Lets_try_a_DoS_attack)
+  * [http://www.mirider.com/weblog/automotive/index.html](http://www.mirider.com/weblog/automotive/index.html)
+  * 
+
+#### RC3
+
+* RAMN: Resistant Automotive Miniature Network
+  * [https://media.ccc.de/v/rc3-11443-ramn\_resistant\_automotive\_miniature\_network](https://media.ccc.de/v/rc3-11443-ramn_resistant_automotive_miniature_network)
+  * [https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/events/11443.html](https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/events/11443.html)
+  * [https://github.com/ToyotaInfoTech/RAMN](https://github.com/ToyotaInfoTech/RAMN)
+
+
+
