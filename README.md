@@ -26,10 +26,10 @@ Welcome to the automotivesec wiki!
 
 ### Events
 
-* [GNU-Radio-Conference](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/gnu-radio-conference)
-* [Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-LltocEE0eoa0ISbWERV/defcon)
-* * [Usenix and related](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Usenix/README.md)
-* [CCC and related](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/~/edit/drafts/-Llu0dyXyfpq--Pi2jDq/c3x)
+* [GNU-Radio-Conference](events-1/events/gnuradioconference/)
+* [Defcon](events-1/events/defcon/)
+* [Usenix and related](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/Usenix/README.md)
+* [CCC and related](events-1/events/c3x/)
 * [bsidesSTR](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/bsidesSTR/README.md)
 
 ### Repos TBD
