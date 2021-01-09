@@ -103,6 +103,33 @@ The talk will focus on practical applications. By the end of the talk, attendees
 * [https://area515.org/elm327-hacking/](https://area515.org/elm327-hacking/)
 * alternative Firmware [https://bitbucket.org/drbobbob/elm-lawicel/src/default/](https://bitbucket.org/drbobbob/elm-lawicel/src/default/)
 
+## \# Testbed
+
+### Pasta
+
+* [https://github.com/pasta-auto](https://github.com/pasta-auto)
+* [https://twitter.com/pasta\_auto](https://twitter.com/pasta_auto)
+* [https://www.blackhat.com/eu-18/briefings/schedule/index.html\#pasta-portable-automotive-security-testbed-with-adaptability-13204](https://www.blackhat.com/eu-18/briefings/schedule/index.html#pasta-portable-automotive-security-testbed-with-adaptability-13204)
+
+### RAMN Resistant Automotive Miniature Network
+
+A safe platform to study and research automotive systems
+
+\#rc3, \#CAN, \#automotivesec
+
+to learn about automotive networks it is essential to find the right tools. here is one of them.
+
+#### \#\#\# Links
+
+* https://media.ccc.de/v/rc3-11443-ramn\_resistant\_automotive\_miniature\_network
+* https://fahrplan.events.ccc.de/rc3/2020/Fahrplan/events/11443.html
+* https://github.com/ToyotaInfoTech/RAMN
+* [https://cyberweek.ae/2020/ramn-resistant-automotive-minimal-network/](https://cyberweek.ae/2020/ramn-resistant-automotive-minimal-network/)
+
+### value-pasta-auto
+
+* [https://github.com/mintynet/value-pasta-auto](https://github.com/mintynet/value-pasta-auto)
+* 
 ## \# Cars
 
 ### Tesla
@@ -113,6 +140,7 @@ The talk will focus on practical applications. By the end of the talk, attendees
 
 ## Tools
 
+* [canutils](canutils.md)
 * [CANalyze](canalyze.md)
 * [CANalyzat0r](canalyzat0r.md)
 * [CANUSB](canusb.md)
