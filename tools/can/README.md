@@ -103,7 +103,7 @@ The talk will focus on practical applications. By the end of the talk, attendees
 * [https://area515.org/elm327-hacking/](https://area515.org/elm327-hacking/)
 * alternative Firmware [https://bitbucket.org/drbobbob/elm-lawicel/src/default/](https://bitbucket.org/drbobbob/elm-lawicel/src/default/)
 
-## \# Testbed
+## Testbed
 
 ### Pasta
 
@@ -111,6 +111,11 @@ The talk will focus on practical applications. By the end of the talk, attendees
 * [https://twitter.com/pasta\_auto](https://twitter.com/pasta_auto)
 * [https://www.blackhat.com/eu-18/briefings/schedule/index.html\#pasta-portable-automotive-security-testbed-with-adaptability-13204](https://www.blackhat.com/eu-18/briefings/schedule/index.html#pasta-portable-automotive-security-testbed-with-adaptability-13204)
 
+### value pasta auto
+
+* [https://github.com/mintynet/value-pasta-auto](https://github.com/mintynet/value-pasta-auto)
+* [https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6751986348057485312/](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6751986348057485312/)
+* 
 ### RAMN Resistant Automotive Miniature Network
 
 A safe platform to study and research automotive systems
