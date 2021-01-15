@@ -14,6 +14,7 @@
   * [Rad1o](tools/rad1o.md)
   * [BladeRF](tools/bladerf.md)
   * [CAN](tools/can/README.md)
+    * [SAE J1939](tools/can/sae-j1939.md)
     * [Canutils](tools/can/canutils.md)
     * [CANalyzat0r](tools/can/canalyzat0r.md)
     * [CANalyze](tools/can/canalyze.md)

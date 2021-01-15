@@ -59,6 +59,7 @@ Welcome to the automotivesec wiki!
 ### Standards
 
 * [SAE J2534](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/SAE-J2534/README.md)
+* [SAE J1939](tools/can/sae-j1939.md)
 * [CAN](tools/can/)
 * [LIN](https://github.com/aueb/automotivesec/tree/d7d5885dbca30ae236e28c269a4a465e393ad706/LIN/README.md)
 
