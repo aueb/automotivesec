@@ -23,3 +23,9 @@
 
 ### ASRG Tel Aviv
 
+
+
+### ASRG Webinar
+
+* ASRG WWW 20210923 Tindell Demonstration of attacks on the CAN protocol
+
