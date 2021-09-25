@@ -27,5 +27,5 @@
 
 ### ASRG Webinar
 
-* ASRG WWW 20210923 Tindell Demonstration of attacks on the CAN protocol
-
+* [ASRG WWW 20210923 Tindell Demonstration of attacks on the CAN protocol](asrg-www-20210923-tindell-demonstration-of-attacks-on-the-can-protocol.md)
+* 
