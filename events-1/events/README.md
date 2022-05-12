@@ -4,6 +4,7 @@
 
 * [ASRG Meetup Stuttgart](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/ASRG-Meetup-Stuttgart)
 * [ASRG Meetup Detroit](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/ASRG-Meetup-Detroit)
+* ASRG Webinare
 
 ## Defcon ([Defcon](https://app.gitbook.com/@andreas-uebener/s/automotivesecwiki/\~/edit/drafts/-Lm\_8SwzbSMGVVs4M7dm/events-1/defcon))
 
