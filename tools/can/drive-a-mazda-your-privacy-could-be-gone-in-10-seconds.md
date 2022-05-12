@@ -8,6 +8,7 @@ description: >-
 
 * [https://www.forbes.com/sites/thomasbrewster/2018/03/09/mazda-privacy-hack-via-usb/](https://www.forbes.com/sites/thomasbrewster/2018/03/09/mazda-privacy-hack-via-usb/)
 * [https://www.hardwear.io/the-hague-2018/speakers/gabriel-cirlig-and-stefan-tanase.php](https://www.hardwear.io/the-hague-2018/speakers/gabriel-cirlig-and-stefan-tanase.php)
+* [https://www.pogowasright.org/drive-a-mazda-your-privacy-could-be-gone-in-10-seconds/](https://www.pogowasright.org/drive-a-mazda-your-privacy-could-be-gone-in-10-seconds/)
 * **Gabriel Cirlig** – Senior Software Engineer/Security Researcher at Ixia, a Keysight business
 * **Stefan Tanase** – Principal Security Researcher at Ixia, a Keysight business
 
