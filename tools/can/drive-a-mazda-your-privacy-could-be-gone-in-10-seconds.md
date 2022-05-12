@@ -11,3 +11,11 @@ description: >-
 * **Gabriel Cirlig** – Senior Software Engineer/Security Researcher at Ixia, a Keysight business
 * **Stefan Tanase** – Principal Security Researcher at Ixia, a Keysight business
 
+{% content-ref url="secure-2018-stefan-tanase-gabriel-cirlig-ixia.md" %}
+[secure-2018-stefan-tanase-gabriel-cirlig-ixia.md](secure-2018-stefan-tanase-gabriel-cirlig-ixia.md)
+{% endcontent-ref %}
+
+{% content-ref url="drive-a-mazda-your-privacy-could-be-gone-in-10-seconds/smart-car-forensics-and-vehicle-weaponization.md" %}
+[smart-car-forensics-and-vehicle-weaponization.md](drive-a-mazda-your-privacy-could-be-gone-in-10-seconds/smart-car-forensics-and-vehicle-weaponization.md)
+{% endcontent-ref %}
+
