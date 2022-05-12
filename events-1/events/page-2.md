@@ -1,5 +1,7 @@
 # GOTO 2017 The Current State of Automotive Security • Chris Valasek •
 
+{% embed url="https://www.youtube.com/watch?v=jUmus4v1F4o" %}
+
 * [https://gotoams.nl/2017/sessions/136/keynote-the-current-state-of-automotive-security](https://gotoams.nl/2017/sessions/136/keynote-the-current-state-of-automotive-security)
 
 This video is also available in the GOTO Play video app! Download it to enjoy offline access to our conference videos while on the move.
