@@ -15,6 +15,7 @@
 
 ## Blackhat
 
+* Blackhat EU 2016
 *
 
 ## CCC
