@@ -13,6 +13,10 @@
 * [Defcon 23](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/Defcon23)
 * [Defcon 26](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/Defcon26)
 
+## Blackhat
+
+*
+
 ## CCC
 
 * [29c3 Privacy and the Car of the Future](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/29c3\_Privacy\_and\_the\_Car\_of\_the\_Future)

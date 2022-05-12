@@ -59,7 +59,7 @@
       * [Defcon\_26\_Grand\_Build\_Your\_Own\_OpticSpy](events-1/events/defcon/defcon26/defcon\_26\_grand\_build\_your\_own\_opticspy.md)
   * [GnuradioConference](events-1/events/gnuradioconference/README.md)
     * [GRC-Con-16](events-1/events/gnuradioconference/grc-con-16.md)
-  * [Page 2](events-1/events/page-2.md)
+  * [GOTO 2017 The Current State of Automotive Security • Chris Valasek •](events-1/events/goto-2017-the-current-state-of-automotive-security-chris-valasek.md)
 
 ## Organisations
 
