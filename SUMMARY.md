@@ -14,6 +14,8 @@
   * [Rad1o](tools/rad1o.md)
   * [BladeRF](tools/bladerf.md)
   * [CAN](tools/can/README.md)
+    * [Drive A Mazda? Your Privacy Could Be Gone In 10 Seconds](tools/can/drive-a-mazda-your-privacy-could-be-gone-in-10-seconds.md)
+    * [SECURE 2018 Stefan Tanase, Gabriel Cirlig IXIA](tools/can/secure-2018-stefan-tanase-gabriel-cirlig-ixia.md)
     * [CANHack](tools/can/canhack.md)
     * [SAE J1939](tools/can/sae-j1939.md)
     * [Canutils](tools/can/canutils.md)
