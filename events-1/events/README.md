@@ -51,6 +51,8 @@
 * [EH2018 CAN-Bus Fahren](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/EH18\_CAN-Bus-Fahren)
 * [EMF18 Car Hacking - Back to the future 1970s style PartII](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/emfcamp16\_Car\_Hacking\_Back\_to\_the\_future\_1970s\_style)
 * [Gnuradio Conference](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/events-1/GnuradioConference)
+* CYBERWEEK 2018 Tel Aviv University 19.6.18
+*
 
 ### 2019
 
