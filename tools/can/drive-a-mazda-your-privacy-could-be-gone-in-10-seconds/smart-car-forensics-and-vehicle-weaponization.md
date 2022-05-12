@@ -5,6 +5,8 @@ description: >-
   compromising your network and spying on you is not som
 ---
 
-# Gabriel Cirlig & Stefan Tanase - Smart Car Forensics & Vehicle Weaponization
+# Smart Car Forensics & Vehicle Weaponization
+
+by Gabriel Cirlig & Stefan Tanase
 
 {% embed url="https://www.youtube.com/watch?v=xTdvVo2qzDk" %}
