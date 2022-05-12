@@ -10,8 +10,7 @@
 
 ## Gadges
 
-* [GreatFET](GreatFET)
-* [Facedacer](Facedancer)
-* [GoodFET](GoodFET)
-* [Beagle USB12](BeagleUSB12)
-
+* [GreatFET](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/tools/GreatFET)
+* [Facedacer](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/tools/Facedancer)
+* [GoodFET](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/tools/GoodFET)
+* [Beagle USB12](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/tools/BeagleUSB12)

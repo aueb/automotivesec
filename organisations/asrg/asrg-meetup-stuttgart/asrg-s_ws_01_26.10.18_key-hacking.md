@@ -7,7 +7,6 @@
 
 ## Software
 
-* [Universal Radio Hacker](urh): investigate wireless protocols like a boss
+* [Universal Radio Hacker](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/organisations/asrg/asrg-meetup-stuttgart/urh): investigate wireless protocols like a boss
   * [https://github.com/jopohl/urh](https://github.com/jopohl/urh)
-* [GQRX](gqrx)
-
+* [GQRX](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/organisations/asrg/asrg-meetup-stuttgart/gqrx)

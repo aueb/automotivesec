@@ -1,8 +1,8 @@
 # GreatFet
 
-by [Great Scott Gadgets](Greatscottgadgets)
+by [Great Scott Gadgets](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/tools/usb/Greatscottgadgets)
 
-## 
+##
 
 ## GreatScott gadges
 
@@ -16,9 +16,9 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 #### GoodFet
 
-* [http://goodfet.sourceforge.net/](http://goodfet.sourceforge.net/)
-*  Travis Goodspeed – A Keynote in Praise of Junk Hacking \(HACKTIVITY 2016\)
-  * [https://www.youtube.com/watch?v=ZmZ\_tvbhJ0I](https://www.youtube.com/watch?v=ZmZ_tvbhJ0I)
+* [http://goodfet.sourceforge.net/](http://goodfet.sourceforge.net)
+* &#x20;Travis Goodspeed – A Keynote in Praise of Junk Hacking (HACKTIVITY 2016)
+  * [https://www.youtube.com/watch?v=ZmZ\_tvbhJ0I](https://www.youtube.com/watch?v=ZmZ\_tvbhJ0I)
 
 #### Facedancer
 
@@ -29,13 +29,13 @@ by [Great Scott Gadgets](Greatscottgadgets)
 * [https://github.com/greatscottgadgets/greatfet/wiki](https://github.com/greatscottgadgets/greatfet/wiki)
 * [https://greatscottgadgets.github.io/greatfet-tutorials/](https://greatscottgadgets.github.io/greatfet-tutorials/)
   * Logic Analysis [https://greatscottgadgets.github.io/greatfet-tutorials/logic-analysis.html](https://greatscottgadgets.github.io/greatfet-tutorials/logic-analysis.html)
-  * **Serial Peripheral Interface \(SPI\)** [**https://greatscottgadgets.github.io/greatfet-tutorials/spi.html**](https://greatscottgadgets.github.io/greatfet-tutorials/spi.html)\*\*\*\*
+  * **Serial Peripheral Interface (SPI)** [**https://greatscottgadgets.github.io/greatfet-tutorials/spi.html**](https://greatscottgadgets.github.io/greatfet-tutorials/spi.html)****
 
-## \#\# Hardware
+## ## Hardware
 
-* Main Board \(azalea\)
+* Main Board (azalea)
   * [https://github.com/greatfet-hardware/azalea](https://github.com/greatfet-hardware/azalea)
-  * 
+  *
 
 ## Neighbors / Heads
 
@@ -52,13 +52,13 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 ### Gladiolus
 
-Gladiolus is the code name for an infrared neighbor under development. The concept is to execute IR RX and TX in the style of Software Defined Radio \(SDR\), enabling implementation of arbitrary IR protocols. In every known over-the-air IR implementation, only the amplitude of the optical signal is modulated, so we need to detect/modulate the amplitude with a single ADC/DAC. 
+Gladiolus is the code name for an infrared neighbor under development. The concept is to execute IR RX and TX in the style of Software Defined Radio (SDR), enabling implementation of arbitrary IR protocols. In every known over-the-air IR implementation, only the amplitude of the optical signal is modulated, so we need to detect/modulate the amplitude with a single ADC/DAC.&#x20;
 
 #### Potential Targets
 
 * 20 to 60 kHz IR remote control systems
 * IrDA up to 4 Mbps
-* Bosch Integrus audio broadcast over IR \(DQPSK over AM\)
+* Bosch Integrus audio broadcast over IR (DQPSK over AM)
 * proximity sensors
 
 #### Wavelength
@@ -69,10 +69,10 @@ Though many IR-over-fiber implementations use longer wavelengths, all over-the-a
 
 * IRIS
   * **Tracking Phones with Infrared and IRis - Hak5 2121**
-    * \*\*\*\*[**https://www.youtube.com/watch?v=Hh5Snb-AXxY**](https://www.youtube.com/watch?v=Hh5Snb-AXxY)\*\*\*\*
-    * \*\*\*\*[**http://www.analogzoo.com/2016/08/photodiode-amplifier-design/**](http://www.analogzoo.com/2016/08/photodiode-amplifier-design/)\*\*\*\*
-    * \*\*\*\*[**https://github.com/tb69rr/Iris**](https://github.com/tb69rr/Iris)\*\*\*\*
-    * \*\*\*\*[**https://github.com/devttys0/IRis**](https://github.com/devttys0/IRis)\*\*\*\*
+    * ****[**https://www.youtube.com/watch?v=Hh5Snb-AXxY**](https://www.youtube.com/watch?v=Hh5Snb-AXxY)****
+    * ****[**http://www.analogzoo.com/2016/08/photodiode-amplifier-design/**](http://www.analogzoo.com/2016/08/photodiode-amplifier-design/)****
+    * ****[**https://github.com/tb69rr/Iris**](https://github.com/tb69rr/Iris)****
+    * ****[**https://github.com/devttys0/IRis**](https://github.com/devttys0/IRis)****
 
 #### Link
 
@@ -80,13 +80,13 @@ Though many IR-over-fiber implementations use longer wavelengths, all over-the-a
 
 ### Peony
 
-Peony is a Software-Defined Radio \(SDR\) neighbor featuring the AT86RF215IQ transceiver.
+Peony is a Software-Defined Radio (SDR) neighbor featuring the AT86RF215IQ transceiver.
 
 * [https://github.com/greatscottgadgets/greatfet/wiki/Peony](https://github.com/greatscottgadgets/greatfet/wiki/Peony)
 
 ### Quince
 
-Quince is a GreatFET neighbor that serves as a Software Defined Radio \(SDR\) receiver for the 2.4 GHz band using a 1-bit sampling technique. It is intended specifically to enable all-channel Bluetooth monitoring, but it should support additional uses.
+Quince is a GreatFET neighbor that serves as a Software Defined Radio (SDR) receiver for the 2.4 GHz band using a 1-bit sampling technique. It is intended specifically to enable all-channel Bluetooth monitoring, but it should support additional uses.
 
 * [https://github.com/greatscottgadgets/greatfet/wiki/Quince](https://github.com/greatscottgadgets/greatfet/wiki/Quince)
 
@@ -96,12 +96,11 @@ Quince is a GreatFET neighbor that serves as a Software Defined Radio \(SDR\) re
 
 ### Resources
 
-* **GreatFET: Making GoodFET Great Again \(Black Hat 2016\)**
+* **GreatFET: Making GoodFET Great Again (Black Hat 2016)**
   * [https://www.youtube.com/watch?v=4NIoAnsuFOQ](https://www.youtube.com/watch?v=4NIoAnsuFOQ)
 * **Introducing the GreatFET One - Hak5 2521**
-  * \*\*\*\*[**https://www.youtube.com/watch?v=gOPF0Abm7T0**](https://www.youtube.com/watch?v=gOPF0Abm7T0)\*\*\*\*
+  * ****[**https://www.youtube.com/watch?v=gOPF0Abm7T0**](https://www.youtube.com/watch?v=gOPF0Abm7T0)****
 * **Hacking Infrared with Mike Ossmann and the GreatFET One - Hak5 2522**
-  * \*\*\*\*[**https://www.youtube.com/watch?v=S3fHahvQCgM**](https://www.youtube.com/watch?v=S3fHahvQCgM)\*\*\*\*
+  * ****[**https://www.youtube.com/watch?v=S3fHahvQCgM**](https://www.youtube.com/watch?v=S3fHahvQCgM)****
 * **Great Scott Gadgets - Michael Ossmann @michaelossmann @GSGlabs**
-  * \*\*\*\*[**https://www.youtube.com/watch?v=t0uIoJ9gK4Y**](https://www.youtube.com/watch?v=t0uIoJ9gK4Y)\*\*\*\*
-
+  * ****[**https://www.youtube.com/watch?v=t0uIoJ9gK4Y**](https://www.youtube.com/watch?v=t0uIoJ9gK4Y)****
