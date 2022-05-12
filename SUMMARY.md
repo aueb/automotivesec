@@ -36,8 +36,8 @@
 ## Events <a href="#events-1" id="events-1"></a>
 
 * [Events](events-1/events/README.md)
-  * [Blackhat](events-1/events/blackhat/README.md)
-    * [Blackhat 2016 EU (Pen)Testing Vehicles with CANToolz](events-1/events/blackhat/blackhat-2016-eu-pen-testing-vehicles-with-cantoolz.md)
+  * [Blackhat](events-1/events/blackhat.md)
+    * [Blackhat 2016 EU (Pen)Testing Vehicles with CANToolz](events-1/events/blackhat-2016-eu-pen-testing-vehicles-with-cantoolz.md)
   * [ccccamp2015\_lecture\_The\_rad1o](events-1/events/ccccamp2015\_lecture\_the\_rad1o.md)
   * [ccccamp2015\_Carhacking–state\_of\_the\_art](events-1/events/ccccamp2015\_carhacking-state\_of\_the\_art.md)
   * [Datenspuren\_2015\_eCall-Lebensretter-oder-Datenwanze-im-Auto](events-1/events/datenspuren\_2015\_ecall-lebensretter-oder-datenwanze-im-auto.md)

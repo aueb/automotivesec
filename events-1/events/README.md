@@ -16,7 +16,8 @@
 ## Blackhat
 
 * Blackhat EU 2016
-*
+  * [Blackhat 2016 EU (Pen)Testing Vehicles with CANToolz](https://app.gitbook.com/s/-LkE3epNpD3qazTGcNWh/\~/changes/WMzLaL2wOzVrJ1GbR2Mj/events-1/events/blackhat/blackhat-2016-eu-pen-testing-vehicles-with-cantoolz)
+  *
 
 ## CCC
 
